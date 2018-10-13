@@ -5,7 +5,7 @@ Features I implemented in this webpage include:
   - Navbar with drop-down options
   - Auto-rotating picture carousel
   - Clickable buttons and forms
-  - Embedded YouTube video popouts
+  - Embedded YouTube video modals
   - Social media hyperlinked footer
   - Mobile responsiveness to entire webpage
   
