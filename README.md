@@ -11,6 +11,8 @@ Features I implemented in this webpage include:
   
 I really enjoyed this project and I am working on more small webpages and learning how to use more current libraries such as React.js.
 
+To have an interactive experience with this webpage on your machine, download my project using the button above and open the "index.html" file!
+
 I do not own any of the pictures or videos displayed on this webpage. All credits go to the respective owners.
 
 ![Picture 1 of Webpage](/Screenshots/web_1.PNG)
